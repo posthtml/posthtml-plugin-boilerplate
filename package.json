@@ -1,12 +1,12 @@
 {
-  "name": "posthtml-plugin",
-  "description": "PostHTML plugin description",
+  "name": "posthtml-webp",
+  "description": "Add webp supporting in your html",
   "version": "1.0.0",
-  "author": "PostHTML",
+  "author": "seokirill",
   "ava": {
     "verbose": "true"
   },
-  "bugs": "https://github.com/posthtml/posthtml-plugin-boilerplate/issues",
+  "bugs": "https://github.com/seokirill/posthtml-webp/issues",
   "dependencies": {
     "posthtml": "^0.9.0"
   },
@@ -22,15 +22,16 @@
   "engines": {
     "node": ">=4"
   },
-  "homepage": "https://github.com/posthtml/posthtml-plugin-boilerplate",
+  "homepage": "https://github.com/seokirill/posthtml-webp",
   "keywords": [
     "html",
     "posthtml",
-    "posthtml-plugin"
+    "posthtml-plugin",
+    "webp"
   ],
   "license": "MIT",
   "main": "lib",
-  "repository": "posthtml/posthtml-plugin-boilerplate",
+  "repository": "seokirill/posthtml-webp",
   "scripts": {
     "commitmsg": "conventional-changelog-lint -p angular -e",
     "lint": "standard | snazzy",
