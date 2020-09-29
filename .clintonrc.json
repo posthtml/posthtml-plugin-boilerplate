@@ -1,0 +1,8 @@
+{
+  "ignores": [],
+  "rules": {
+    "ava": "off",
+    "xo": "off",
+    "use-travis": "off"
+  }
+}
