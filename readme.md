@@ -1,4 +1,4 @@
-# PLUGIN_NAME <img align="right" width="220" height="200" title="PostHTML logo" src="http://posthtml.github.io/posthtml/logo.svg">
+# PLUGIN_NAME <img align="right" height="100" title="PostHTML logo" src="http://posthtml.github.io/posthtml/logo.svg">
 
 [![Actions Status][action]][action-url]
 [![NPM][npm]][npm-url]
