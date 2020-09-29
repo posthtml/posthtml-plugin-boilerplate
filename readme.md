@@ -1,6 +1,6 @@
 # PLUGIN_NAME <img align="right" width="220" height="200" title="PostHTML logo" src="http://posthtml.github.io/posthtml/logo.svg">
 
-[![Actions Status](action)](action-url)
+[![Actions Status][action]][action-url]
 [![NPM][npm]][npm-url]
 [![Coverage][cover]][cover-badge]
 [![XO code style][style]][style-url]
