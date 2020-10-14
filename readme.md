@@ -29,7 +29,9 @@ After:
 
 Describe how big guys can install your plugin.
 
-> npm i PLUGIN_NAME
+```bash
+npm i PLUGIN_NAME
+```
 
 ## Usage
 
@@ -52,6 +54,7 @@ posthtml()
 Describe all features of your plugin with examples of usage.
 
 ### Feature
+
 Before:
 ``` html
 <html>
@@ -60,6 +63,7 @@ Before:
   </body>
 </html>
 ```
+
 Add option:
 ``` js
 const fs = require('fs');
@@ -71,6 +75,7 @@ posthtml()
     .process(html/*, options */)
     .then(result => fs.writeFileSync('./after.html', result.html));
 ```
+
 After:
 ``` html
 <html>
